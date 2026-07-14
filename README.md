@@ -1,0 +1,9 @@
+<p align="center">
+  <h1 align="center">A simple e-commerce frontend responsive website using JavaScript</h1>
+</p>
+
+<p align="center">
+  <a>
+    <img align="center" src="./images/hot-gadget.png" width="100%">
+  </a>
+</p><br>
